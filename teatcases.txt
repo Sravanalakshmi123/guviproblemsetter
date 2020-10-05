@@ -1,0 +1,7 @@
+Test cases:
+Tc1:
+I/p=aaabbcc
+O/p=a3b2c2
+Tc2:
+I/p=hi how are you
+o/p=h2i1o2w1a1r1e1y1u1
